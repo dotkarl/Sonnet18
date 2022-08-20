@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sonnet18", "Sonnet18\Sonnet18.csproj", "{A6C5AA14-B536-476B-9B23-705761CD6C96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonnet18.Tests", "Sonnet18.Tests\Sonnet18.Tests.csproj", "{F3C1D701-8CC4-4FE5-A7CC-93C7EF858090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6C5AA14-B536-476B-9B23-705761CD6C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C5AA14-B536-476B-9B23-705761CD6C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C5AA14-B536-476B-9B23-705761CD6C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C5AA14-B536-476B-9B23-705761CD6C96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C1D701-8CC4-4FE5-A7CC-93C7EF858090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C1D701-8CC4-4FE5-A7CC-93C7EF858090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C1D701-8CC4-4FE5-A7CC-93C7EF858090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C1D701-8CC4-4FE5-A7CC-93C7EF858090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90CBBA57-87F0-46CC-B713-F4F99A3830C6}
+	EndGlobalSection
+EndGlobal
